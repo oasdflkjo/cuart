@@ -1,6 +1,6 @@
 # UART Communication Project
 
-This project demonstrates how to communicate with a UART device using C on Windows. It includes code for sending and receiving data from a UART device and simple batch files for building and cleaning the project.
+This project demonstrates how to communicate with a UART device using C on Windows. It includes code for receiving data from a UART device and simple batch files for building and cleaning the project.
 
 ## Prerequisites
 
