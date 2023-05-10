@@ -12,14 +12,14 @@ This project demonstrates how to communicate with a UART device using C on Windo
 
 This project uses CMake as the build system. We have provided simple batch files to build the project in Debug and Release configurations:
 
-1. To build the project in Debug configuration, run on the `create_debug.bat`.
-2. To build the project in Release configuration, run on the `create_release.bat`.
+1. To build the project in Debug configuration, run the `create_debug.bat`.
+2. To build the project in Release configuration, run the `create_release.bat`.
 
 The compiled executables will be created in the `build_debug` or `build_release` directories, depending on the chosen configuration.
 
 ## Cleaning the Project
 
-To clean up the build directories, run on the `clean.bat`. This will remove the `build_debug` and `build_release` directories, along with their contents.
+To clean up the build directories, run the `clean.bat`. This will remove the `build_debug` and `build_release` directories, along with their contents.
 
 ## Usage
 
